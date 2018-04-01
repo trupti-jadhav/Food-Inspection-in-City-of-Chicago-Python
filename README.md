@@ -1,2 +1,5 @@
 # Python-Project
 Food Inspection : city of Chicago
+
+Abstract Analysis of Food Inspection based on the data obtained from Chicago Data Portal. The Food Protection Division of the Chicago Department of Public Health (CDPH) is committed to maintaining the safety of food bought, sold, or prepared for public consumption in Chicago by carrying out science-based inspections of all retail food establishments. These inspections promote public health in areas of food safety and sanitation and prevent the occurrence of food-borne illness.
+The analysis was done using Python Pandas Library, Matplotlib Library and SQL. We were able to study about each of the predictors or the variables in the data set. The data set that we dealt with is mostly of textual type and involved a set of categorical variables. Studying the variables gave us an idea as to how each of them gives out a meaning for the data points. We were able to come up with relationships among the various input variables and the same were visualized.
